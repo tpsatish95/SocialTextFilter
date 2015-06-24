@@ -27,8 +27,8 @@ print(w["rofl"])
 
 ## removing all contactions and abbreviations
 
-acro = load_obj("../acronymsDict")
-conc = load_obj("../contractionsDict")
+acro = load_obj("../../acronymsDict")
+conc = load_obj("../../contractionsDict")
 
 remove = list(set(acro.keys()).union(set(conc.keys())))
 
@@ -39,4 +39,4 @@ for r in remove:
 		continue
 save_obj(w,"wordDict")
 
-print(w["we'll"])
+print(w["hw"])

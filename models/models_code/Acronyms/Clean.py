@@ -26,4 +26,4 @@ for a in acroLines:
 print(len(acronymsDict))
 save_obj(acronymsDict,"acronymsDict")
 
-print(acronymsDict["hw"])
+print(acronymsDict["plz"])

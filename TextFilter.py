@@ -56,7 +56,7 @@ class Filter(object):
 		tempTweet = ""
 
 		for word in twokenize.tokenize(temp):
-			if word != " " and not word.isdigit():
+			if word != " ":
 
 				word = word.strip()
 				flagNonDict = 0
@@ -64,6 +64,7 @@ class Filter(object):
 				try:
 					#### Check Dict and set flag
 					if self.wordDict[word] == 1:
+						print(word)
 						word =	word
 				except:
 					flagNonDict = 1
@@ -106,4 +107,4 @@ class Filter(object):
 
 # #Usage
 # filter = Filter()
-# filter.process("lol god am ampple help with my hw :) :(:D")
+# filter.process("god am having ampple amount of time pls help me with my hw :) :(:D#lol ")

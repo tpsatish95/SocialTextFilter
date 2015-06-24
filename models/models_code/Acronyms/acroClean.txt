@@ -80,10 +80,10 @@ lmtcb : left message to call back
 kir : keep it real
 iitywimwybmad : if i tell you what it means will you buy me a drink
 b&e : breaking & entering
-bdc : big dumb company  big dot com
+bdc : big dumb company
 bbiaw : be back in a while
-eta : estimated time of arrival  edited to add
-pfa : pulled from ass  please find attached
+eta : estimated time of arrival
+pfa : please find attached
 otasoic : owing to a slight oversight in construction
 dp : domestic partner
 afaiaa : as far as i am aware
@@ -130,9 +130,7 @@ esfoad : eat shit fuckoff and die
 kmt : kiss my tushie
 ynk : you never know
 mlm : giving the digital middle finger
-fine : fucked up insecure neurotic emotional  fuck it never ends
 tic : tongue in cheek
-air : as i remember
 tsia : this says it all
 bcos : because
 ays : are you serious?
@@ -166,7 +164,6 @@ f2p : free to play
 iat : i am tired
 cico : coffee in coffee out
 bioya : blow it out your ass
-tap : take a pill
 wyfm : would you fuck me?
 tstb : the sooner the better
 suitm : see you in the morning
@@ -194,7 +191,6 @@ mofo : mother fucker
 tc : take care
 afu : all fucked up
 slm : see last mail
-hand : have a nice day
 gos : gay or straight
 pmji : pardon my jumping in
 bwo : black white or other
@@ -234,7 +230,7 @@ rs : runescape
 ghm : god help me
 aoas : all of a sudden
 acqstn : acquisition
-hi 5 : high five
+hi5 : high five
 bbbg : bye bye be good
 iiwm : if it were me
 b2e : business-to-employee
@@ -250,7 +246,7 @@ pebcak : problem exists between chair and keyboard
 hbic : head bitch in charge
 bbfn : bye bye for now
 igwst : it goes without saying that
-ooo : out of office  out of commission
+ooo : out of office
 goi : get over it
 arg : argument
 cbm : covered by medicare
@@ -309,7 +305,8 @@ ptfo : pass the *freak* out
 ar : action required
 gg : good game  gotta go  giggling
 tisnf : that is so not fair
-kfy -or- k4y : kiss for you
+kfy : kiss for you
+k4y : kiss for you
 shmily : see how much i love you
 ihy : i heart you  i hate you
 pcm : please call me
@@ -374,7 +371,7 @@ aon : apropos of nothing
 imezru : i am easy are you?
 g4i : go for it
 yhl : you have lost
-8 : ate it also refers to oral sex
+8 : ate
 nvr : never
 tts : text to speech
 nmjc : nothing much, just chilling
@@ -394,7 +391,6 @@ ctn : cannot talk now
 mtsbwy : may the schwartz be with you
 chillaxin : chilling and relaxing
 wnohgb : where no one has gone before
-so : significant other
 s2u : same to you
 wtfe : what the *freak* ever
 lmp : lick my pussy
@@ -405,9 +401,8 @@ dn : down
 difbet : what is the difference between
 csn : chuckle snicker grin
 bbt : be back tomorrow
-w wult : what would you like to talk about
+wwult : what would you like to talk about
 taumualu : thinking about you miss you always love you
-e : ecstasy
 jm2c : just my 2 cents
 jt : just teasing
 ttyafn : talk to you awhile from now
@@ -432,7 +427,7 @@ tabooma : take a bite out of my ass
 nstlc : need some tender loving care
 dunno : i so not know
 loml : love of my life
-wc : who cares  water closet
+wc : world cup
 sat : sorry about that
 ome : oh my evolution
 gdr : grinning, ducking, and running
@@ -452,9 +447,8 @@ rthx :  thanks for the rt
 lagnaf : lets all get naked and fuck
 dityid : did i tell you i am distressed
 bplm : big person little mind
-lol wuss : laugh out loud with unintentional snort sound
+lolwuss : laugh out loud with unintentional snort sound
 cmiiw : correct me if i am wrong
-bob : battery operated boyfriend
 proggy :  computer program
 fos : full of shit
 amrmtyfts : all my roommates thank you for the show
@@ -465,7 +459,6 @@ inal : i am not a lawyer
 tank :  really strong
 jas : just a second
 usbca : until something better comes along
-mop : moment please
 dfla : disenhanced four-letter acronym
 i-d-l : ideal
 q : queue  question
@@ -514,7 +507,6 @@ wru : where are you?
 grrr : growling
 y? : why?
 degt : so not even go there
-fred : fucking ridiculous electronic device
 jw : just wondering
 pld : played
 dwwwi : surfing the world wide web while intoxicated
@@ -583,14 +575,13 @@ rumof : are you male or female?
 mc : merry christmas
 wtm : who is the man?
 rotflmfao : rolling on the floor laughing my fucking ass off
-was : what a slut
 iitywybmad : if i tell you will you buy me a drink
 jafo : just another fucking onlooker
 nimq : not in my queue
 tlk2ul8r : talk to you later
 darfc : ducking and running for cover
 mez :  mesmerize
-pc : personal computer  politically correct
+pc : personal computer
 459 : i love you
 ftr : for the record
 s3<==8 : screwed in the ass
@@ -599,21 +590,19 @@ tobg : this oughta be good
 da : there
 howru : how are you
 aak : asleep at keyboard
-gl/hf : good luck, have fun
+gl : have fun
+hf : good luck
 oic : oh i see
 ig2r : i got to run
 brd : bored
 ltio : laughing til i orgasm
 snny : sunny
 lifo : last in first out
-shit : sugar honey ice tea
-denial : so not even notice i am lying
 gle : good luck everyone
 bion : believe it or not
 gn8 : good night
 xxcc : kiss kiss hug hug
 tg4a : thank god for acronyms
-hw : homework
 ursai : you are such an idiot
 twu : that is what is up
 rtms : read the manual, stupid
@@ -699,7 +688,6 @@ wtfo : what the *freak* ?, over.
 fo : fuck off
 gfi : go for it
 ace : access control entry
-girl : guy in real life
 hpoa : hot piece of ass
 lhso : let is have sex online
 iae : in any event
@@ -711,7 +699,6 @@ imowha : i made out with him her anyway
 sogop : shit or get off the pot
 otb : off to bed
 rtfm : read the fucking manual
-,!!!! : talk to the hand
 foad : fuck off and die
 w/o : without
 siuya : shove it up your ass
@@ -832,7 +819,6 @@ iyq : i like you
 99 : parent is no longer watching
 gawd : god
 nttawwt : not that there is anything wrong with that
-bay : back at ya
 mnsg : mensaje
 tjbnj : this job beats no job
 ikaloplt : i know a lot of people like that
@@ -861,7 +847,8 @@ l8rg8r : later, gator
 gts : google that shit
 qfi : quoted for idiocy
 dts : so not think so
-ee or ees : employee  employees
+ee : employees
+ees : employee
 iykwim : if you know what i mean
 nifoc : nude in front of the computer
 sorg : straight or gay
@@ -911,7 +898,6 @@ ttyawfn : talk to you a while from now
 joml : jesus on the main line
 tisnc : this is so not cool
 yg : young gentleman
-w : with  working
 qft : quoted for truth  quit fucking talking
 ihni : i have no idea
 fomo : fear of missing out
@@ -1040,7 +1026,6 @@ sc : stay cool
 gns : gangnam style
 ott : over the top
 fawc : for anyone who cares
-book : cool
 dfu : so not fuck up
 pso : product superior to operator
 ptiypasi : put that in your pipe and smoke it
@@ -1049,7 +1034,6 @@ yglt : you are gonna love this
 soiar : sit on it and rotate
 ltr : long term relationship
 waci : what a cool idea
-l : laugh
 grwg : get right with god
 dmi : so not mention it
 wuzup : what is up?
@@ -1094,7 +1078,7 @@ ni : not interested
 tfm : thanks from me
 iwsn : i want sex now
 d46? : down for sex?
-c : see it is also a programming language
+c : see
 glgh : good luck and good hunting
 kcco : keep calm & carry on
 ya : yet another  you  your
@@ -1123,7 +1107,7 @@ ngb : nearly good bridge
 tmtowtdi : there is more than one way to do it
 gtk : good to know
 nirok : not in reach of keyboard
-www : world wide web  world wide wait  what went wrong
+www : world wide web
 yaa : yet another acronym
 cra cra : slang term  crazy
 lm4a~##zzzz> : let is meet for a joint
@@ -1145,7 +1129,6 @@ bg : be good
 love : lots of voluntary effort
 nub : new person to a site or game
 awniac : all we need is another chair
-s : smile
 aeap : as early as possible
 siup : suck it up pussy
 tku4uk : thank you for your kindness
@@ -1227,14 +1210,13 @@ ita : i totally agree
 kdfu :  cracking  *freak* up
 wymyn : women
 tmsgo : too much shit going on
-of : old fart
 fym : for your misinformation
 ma : mature audience
 urtm : you are the man
 khyf : know how you feel
 diaf : die in a fire
 wkd : weekend
-cs : career suicide
+cs : computer science
 ttyl : talk to you later  type to you later
 bhl8 : be home late
 ily2 : i like/love you too
@@ -1294,7 +1276,7 @@ bbq : bar-b-que  barbeque
 d2d : developer-to-developer or day-to-day
 ikyabwai : i know you are but what am i?
 mlas : my lips are sealed
-add : address
+addr : address
 po-mo : post-modern
 are : acronym rich environment
 ssif : so stupid it is funny
@@ -1316,12 +1298,10 @@ nr : nice roll
 bykt : but you knew that
 ish : insert sarcasm here
 aom : age of majority
-no : not online
 ptp : pardon the pun
 hugz : hugs
 y2k : you are too kind
 osif : oh shit i forgot
-afair : as far as i remember
 2u2 : to you too
 gtrm : going to read mail
 somy : sick of me yet
@@ -1371,7 +1351,6 @@ syl : see you later
 wiiwii : well it is what it is
 fogc : fear of getting caught
 ytrnw : yeah that is right now what?
-time : tears in my eyes
 tgal : think globally act locally
 nb4t : not before time
 gwot : glorified waste of time
@@ -1429,7 +1408,7 @@ grl : girl
 omfglmaobbqrofl : oh my freaking god, laugh my ass off, owned, roll on floor spinning around i am so sad
 sic : spelling is correct
 bibo : beer in beer out
-ok : okay  all correct
+ok : okay
 rfn : right *freaking* now
 j/k : just kidding
 wwsd : what would satan do?
@@ -1442,7 +1421,6 @@ btr : better
 boctaae : but of course there are always exceptions
 gtl : gym tan laundry
 dps : damage per second
-miss. :  child and her age. miss.3 would be a 3-year old daughter
 pdoma : pulled directly out of my ass
 bsts : better safe than sorry
 faq : frequently asked questions
@@ -1472,12 +1450,11 @@ caac : cool as a cucumber
 werubn : where have you been
 psos : parent standing over shoulder
 ateotd : at the end of the day
-cod : change of dressing
+cod : cash on delivery
 lombard : lots of money but a right dick
 afaiu : as far as i understand
 ttksf : trying to keep a straight face
 itigbs : i think i am going to be sick
-navy : never again volunteer yourself
 dtrt : do the right thing
 giwist : gee i wish i would said that
 ilbl8 : i will be late
@@ -1498,7 +1475,6 @@ pbem : play by email
 mva w/pi : motor vehicle accident with personal injury
 p3r50n : person
 ooc : out of character  out of control
-at : at your terminal
 hih : hope it helps
 wu : what is up
 irl : in real life
@@ -1508,7 +1484,6 @@ figmo : fuck it got my orders
 wsu : what say you?
 ng : new game
 dpup : so not poop your pants
-wow : world of warcraft
 vbl : visible bra line
 damhikt : so not ask me how i know that
 jk : just kidding
@@ -1615,7 +1590,7 @@ rrq : return receipt requested
 m8 or m8s : mate  mates
 cuatsc : see you at the senior center
 ppu : pending pick-up
-swag : scientific wild ass guess  software and giveaways
+swag : scientific wild ass guess
 wyp : what is your problem?
 iyaoyas : if you ain't ordinance you ain't shit
 \m/ : heavy metal music
@@ -1650,7 +1625,6 @@ sjw : social justice warrior
 shtf : shit hits the fan
 tnt : til next time
 c%d : could
-its : intense text sex
 gh : good hand
 ihnc : i have no clue
 p2p : parent to parent
@@ -1692,7 +1666,7 @@ bwl : bursting with laughter
 vat : value added tax
 n-a-y-l : in a while
 kudt : dutch for fucked up life
-n pic : nice picture
+npic : nice picture
 xlnt : excellent
 lolo : lots of love
 hoyew : hanging on your every word
@@ -1739,7 +1713,6 @@ ymmd : you make my day  you made my day
 afk : away from keyboard  a free kill
 wafu : what a fuck up
 t2ut : talk to you tomorrow
-good job : get out of debt job
 td&h : tall dark and handsome
 tftu : thanks for the update
 rotflol : rolling on the floor laughing out loud
@@ -1751,7 +1724,6 @@ icbw : i could be wrong
 ntbn : no text back needed
 fw : forward
 gfy : good for you  go fuck yourself  go find yourself
-smart : self-monitoring analysis and reporting technology
 rm : remake
 ijpmp : i just pissed my pants
 os : operating system
@@ -1783,7 +1755,7 @@ pfm : pure fucking magic
 elol : evil laugh out loud
 rbu : rainbows butterflies unicorns
 cmap : cover my ass partner
-y : why?  yes
+y : why?
 g2r : got to run
 gowi : get on with it
 yttl : you take too long
@@ -1791,13 +1763,12 @@ rsvp : repondez s'il vous plait
 jmo : just my opinion
 wdr : with due respect
 jfh : just fuck her
-i <3 i : i love it
+i<3i : i love it
 ru\\18 : are you under 18?
-m : mom
 td : tower defense
 wan2 : want to
 h8ttu : hate to be you
-<3 : it is a heart
+<3 : heart
 lolh : laughing out loud hysterically
 tyfyc : thank you for your comment
 h8 : hate
@@ -1945,8 +1916,7 @@ abt2 : about to
 yl : young lady
 dhyb : so not hold your breath
 adm : aye dios mio
-hd : hold
-fish : first in still here
+hd : high definition
 ianal : i am not a lawyer
 dc : disconnect
 otr : on the road
@@ -1992,7 +1962,6 @@ ugtbk : you have got to be kidding
 rumcymhmd : are you on medication cause you must have missed a dose
 gla : good luck all
 hhoj : ha ha only joking
-h : hug
 wilb : workplace internet leisure browsing
 tmth : too much to handle
 hu : hook up
@@ -2015,7 +1984,6 @@ re : regards  reply  hello again
 tggtg : that girl guy has got to go
 dfik : darn if i know
 tyg : there you go  thank you god
-o : opponent  over  or
 nvng : nothing ventured nothing gained
 sta : short term attitude
 ylw : your loving wife
@@ -2028,7 +1996,7 @@ inbd : it is no big deal
 ama : ask me anything
 rtfaq : read the faq
 oirwis : oh i remember what i said
-4 : for four
+4 : for
 ntl : nonetheless
 buff : big ugly fat fuck
 ford : found on road dead fixed or repaired daily fucked over rebuilt dodge
@@ -2055,7 +2023,6 @@ ru/18 : are you over 18?
 brl : belly roll laughs
 m$ : microsoft
 bms : baby making sex
-rat : remotely activated trojan  remote access tool
 fud : fear uncertainty and disinformation
 wibni : wouldn't it be nice if
 ru : are you?
@@ -2205,13 +2172,12 @@ atc : any two cards
 gr&d : grinning running & ducking
 nos : new old stock  not outside sales
 nnr : need not respond
-doc : drug of choice
+doc : documet
 fsbo : for sale by owner
 neet : not currently engaged in employment education or training
 yolo : you only live once
 fol : fond of leather
 lumu : love you miss you
-f : friend
 4ever : forever
 j00r : your
 imsb : i am so bored
@@ -2239,7 +2205,6 @@ stbx : soon to be ex
 suyf : shut up you fool
 gsoas : go sit on a snake
 daoc : dark age of camelot
-yahoo : you always have other options
 2b or not 2b : to be or not to be
 smt : something
 gotdpwyd : get off the damn phone while you are driving
@@ -2300,7 +2265,7 @@ tram : the rest are mine
 llap : live long and prosper
 wog : wise old guy
 smim : send me an instant message
-veg : very evil grin
+veg : vegetarian
 t+ : think positive
 eod : end of day  end of discussion
 sfaiaa : so far as i am aware
@@ -2373,7 +2338,6 @@ chln : chilling
 fbm : fine by me
 ntabom : now that is a bunch of malarkey
 ntimm : not that it matters much
-pop : photo on profile point of purchase/presence post office protocol
 gge1 : good game, everyone
 gbu : god bless you
 oo : over and out
@@ -2442,7 +2406,9 @@ f2fmail : face-to-face mail
 rimjs : really i am just saying
 booms : bored out of my skull
 sos : same old shit  help
-thx or tx or thks : thanks
+thx : thanks
+tx : thanks
+thks : thanks
 gyhooya : get your head out of your ass
 yacc : yet another calendar company
 kync : keep your nose clean
@@ -2467,7 +2433,6 @@ cya : cover your ass  see ya
 brb : be right back
 nd : no date
 tyfc : thank you for charity
-moss : member of the same sex
 bfr : big fucking rock
 pmf : pardon my french
 fomc : fell off my chair
@@ -2556,7 +2521,6 @@ crs : cannot remember shit
 ct : cannot talk  cannot text
 cre8 : create
 ema : e-mail address
-gas : got a second?
 csa : cool sweet awesome
 btfo : back the fuck off  bend the fuck over
 usu : usually
@@ -2664,10 +2628,10 @@ sis : snickering in silence
 ioud : inside outside upside down
 ugtr : you got that right
 ho : hang on  hold on
-eg : evil grin
+eg : example
 sete : smiling ear to ear
 galgal : give a little get a little
-gmta asdo : great minds think alike and so do ours
+gmtaasdo : great minds think alike and so do ours
 mhoty : my hat is off to you
 nfg : not fucking good
 dl : down low  download  dead link
@@ -2691,7 +2655,7 @@ byod : bring your own device
 wuu2 : what are you up to?
 meh : who cares whatever
 tftt : thanks for the thought
-i 1-d-r : i wonder
+i1-d-r : i wonder
 lykyamy : love you kiss you already miss you
 tflms : thanks for letting me share
 cbb : cannot be bothered
@@ -2746,7 +2710,7 @@ roflol : rolling on floor laughing out loud
 figs : french italian german spanish
 nth : nothing
 topca : til our paths cross again
-24/7 : twenty four seven as in all the time
+24/7 : twenty four seven all the time
 aoc : available on cell
 fttb : for the time being
 sil : sister-in-law
@@ -2853,8 +2817,8 @@ aweso : awesome
 jhom : just helping out my
 angb : almost nearly good bridge
 swalbcakws : sealed with a lick because a kiss won't stick
-d/l : download
-j/w : just wondering
+dl : download
+jw : just wondering
 mla : multiple letter acronym
 amof : as a matter of fact
 imru : i am are you?
@@ -2931,7 +2895,6 @@ stw : search the web
 cd9 : code 9 -  parents are around
 wh5 : who, what, when, where, why
 ptmm : please tell me more
-nice : nonsense in crappy existence
 dk : so not know
 pron : porn
 ugfsu : your girlfriend is ugly
