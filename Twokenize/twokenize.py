@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 __author__="brendan o'connor (anyall.org)"
 
 ### Insert Current Path

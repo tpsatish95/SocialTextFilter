@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 '''
    Copyright 2015 Satish Palaniappan
 
@@ -20,7 +21,7 @@ import pickle
 import re, collections
 
 ### Insert Current Path
-import os, sys, inspect
+import os, sys, inspect, traceback
 cmd_folder = os.path.realpath(os.path.abspath(os.path.split(inspect.getfile(inspect.currentframe()))[0]))
 if cmd_folder not in sys.path:
 	sys.path.insert(0, cmd_folder)
@@ -108,9 +109,13 @@ class Filter(object):
 										corrected = self.spellCheck.correct(word)
 										if corrected != "a":
 											word = corrected
+				try:
+					tempTweet = " ".join([tempTweet,word.strip()])
+					tempTweet = tempTweet.lower().strip()
+				except:
+					tempTweet = " ".join([tempTweet,word.strip().decode("iso-8859-1")])
+					tempTweet = tempTweet.lower().strip()
 
-				tempTweet = " ".join([tempTweet,word.strip()])
-				tempTweet = tempTweet.lower().strip()
 		if stemmerF == 1 and stopwordsF == 1:
 			tempTweet = " ".join(stemmer.stem(w) for w in tempTweet.split(" ") if w not in self.stop)
 		elif stemmerF == 1:
